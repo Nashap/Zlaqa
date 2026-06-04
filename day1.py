@@ -1,2 +1,2 @@
-#Hello-World CLI script committed to GitHub
+#Hello-World CLI 
 print("hello world!")
